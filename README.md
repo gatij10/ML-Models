@@ -1,1 +1,1 @@
-Minor Ml projects
+Minor ML projects
